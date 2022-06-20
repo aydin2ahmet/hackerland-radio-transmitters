@@ -1,0 +1,15 @@
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\bin\Debug\net6.0\Hackerland Radio Transmitters.exe
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\bin\Debug\net6.0\Hackerland Radio Transmitters.deps.json
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\bin\Debug\net6.0\Hackerland Radio Transmitters.runtimeconfig.json
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\bin\Debug\net6.0\Hackerland Radio Transmitters.dll
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\bin\Debug\net6.0\Hackerland Radio Transmitters.pdb
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\obj\Debug\net6.0\Hackerland Radio Transmitters.csproj.AssemblyReference.cache
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\obj\Debug\net6.0\Hackerland Radio Transmitters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\obj\Debug\net6.0\Hackerland Radio Transmitters.AssemblyInfoInputs.cache
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\obj\Debug\net6.0\Hackerland Radio Transmitters.AssemblyInfo.cs
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\obj\Debug\net6.0\Hackerland Radio Transmitters.csproj.CoreCompileInputs.cache
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\obj\Debug\net6.0\Hackerland Radio Transmitters.dll
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\obj\Debug\net6.0\refint\Hackerland Radio Transmitters.dll
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\obj\Debug\net6.0\Hackerland Radio Transmitters.pdb
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\obj\Debug\net6.0\Hackerland Radio Transmitters.genruntimeconfig.cache
+C:\Users\acatg\source\repos\Questions\Hackerland Radio Transmitters\Hackerland Radio Transmitters\obj\Debug\net6.0\ref\Hackerland Radio Transmitters.dll
